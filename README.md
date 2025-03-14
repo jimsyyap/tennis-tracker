@@ -77,7 +77,7 @@ tennis-tracker-frontend/
 
 ### Phase 1: Project Setup and Core Backend (Weeks 1-2)
 - [x] Initialize project structure
-- [ ] Set up PostgreSQL database
+- [x] Set up PostgreSQL database
 - [ ] Implement user authentication
 - [ ] Create core API endpoints
 
