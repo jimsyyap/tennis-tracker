@@ -7,7 +7,8 @@
    - (done) Initialize Go project with proper structure
    - (done) Set up PostgreSQL database and connection
    - (done, not tested)Create database migration scripts (see dbmigrate.md)
-   - Implement basic API structure and middleware
+   - (working) Implement basic API structure and middleware
+        . Needs internal/api/sessions.go (hit max length claude)
 
 2. **User Authentication**
    - Implement user registration and login endpoints
