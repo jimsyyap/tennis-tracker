@@ -4,9 +4,9 @@
 
 ### Phase 1: Project Setup and Core Backend (Weeks 1-2)
 1. **Backend Setup**
-   - Initialize Go project with proper structure
-   - Set up PostgreSQL database and connection
-   - Create database migration scripts
+   - (done) Initialize Go project with proper structure
+   - (done) Set up PostgreSQL database and connection
+   - (done, not tested)Create database migration scripts (see dbmigrate.md)
    - Implement basic API structure and middleware
 
 2. **User Authentication**
